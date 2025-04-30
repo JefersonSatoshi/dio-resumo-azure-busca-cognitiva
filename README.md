@@ -1,0 +1,1 @@
+# dio-resumo-azure-busca-cognitiva
